@@ -4,8 +4,8 @@ import kenpompy.summary as kp_summary
 import pandas as pd
 import numpy as np
 
-USERNAME = "murphykevin24@gmail.com"
-PASSWORD = "dusrun-pocfuv-3hEpqu"
+USERNAME = ""
+PASSWORD = ""
 SEASON = "2025"
 
 DEBUG = False  # Set to True to print warnings when using fallback values.
